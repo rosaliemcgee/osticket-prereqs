@@ -70,9 +70,5 @@ By the end I setup osTicket successfully and logged in as an administrator.
 <img src="https://i.imgur.com/HK1oWF4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/PiRsFok.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
-
-
 <br />
 
